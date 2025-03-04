@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Konstantin 👋
 
 <!--
 **KonstantinBurkin/KonstantinBurkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I’m a Data Scientist with 3+ years of experience in **e-commerce / online retail / logistics** industry.
+- I’ve worked on projects that involved **research and end-to-end development of models with deployment**.
+- My projects were dedicated to the **supply or metrics forcasting, optimization of business processes using math optimization or optimization with elastic models, customer reviews analysis, risk prediction, uplift modeling**. 
